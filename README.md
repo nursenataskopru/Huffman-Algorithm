@@ -1,0 +1,2 @@
+# Huffman Algorithm
+ (TR) Python dilinde. Verilen .txt dosyasını sıkıştırır. Sıkıştırılmış hali ve sıkıştırılmış halin decode edilmiş hali .txt dosyası olarak proje klasöründe oluşur. Huffman agacının preorder sıralaması çıktı olarak verilir. (ENG) In Python language. Compresses the given .txt file. The compressed version and the decoded version of the compressed version are created as a .txt file in the project folder. The preorder ranking of the Huffman tree is given as output
